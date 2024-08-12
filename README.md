@@ -1,8 +1,11 @@
 # CS753-ASR
 
-Team Name - ACDC
+Team ACDC
 
-- Atishay Jain (210050026)
-- Chaitanya Aggarwal (210050038)
-- Cheshta Damor (210050040)
-- Divyansh Singhal (210050045)
+- Assignment 1 
+	- End-to-end ASR using Speechbrain
+	- Modified CTC Conformer Model
+	- Visualizing CTC
+- Assignment 2
+	- HMMs and WFSTs
+	- Hinglish ASR (Greedy decoding and Beam Search)
